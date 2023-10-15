@@ -1,0 +1,4 @@
+ru\skillfactorydemo\tgbot\entity\ActiveChat.class
+ru\skillfactorydemo\tgbot\service\ScheduleService.class
+ru\skillfactorydemo\tgbot\entity\Income.class
+ru\skillfactorydemo\tgbot\repository\ActiveChatRepository.class
